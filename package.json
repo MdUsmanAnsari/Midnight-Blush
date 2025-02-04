@@ -3,7 +3,7 @@
   "displayName": "Midnight Blush",
   "description": "A sleek and elegant dark theme with pink highlights.",
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "MdUsmanAnsari",
   "keywords": [
     "Midnight",
@@ -16,7 +16,7 @@
   "icon": "midnight-blush-icon.png",
   "repository": {
     "type": "git",
-    "url": "hhttps://github.com/MdUsmanAnsari/Midnight-Blush"
+    "url": "https://github.com/MdUsmanAnsari/Midnight-Blush"
   },
   "engines": {
     "vscode": "^1.70.0"
