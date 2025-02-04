@@ -13,7 +13,3 @@ A sleek and elegant dark theme with pink highlights.
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Midnight Blush**
-
-## Install directly from marketplace
-
-[Install Link](https://marketplace.visualstudio.com/items?itemName=MdUsmanAnsari.colorful-code)
