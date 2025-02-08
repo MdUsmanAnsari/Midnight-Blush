@@ -3,7 +3,7 @@
   "displayName": "Midnight Blush",
   "description": "A sleek and elegant dark theme with pink highlights.",
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "MdUsmanAnsari",
   "keywords": [
     "Midnight",
@@ -30,6 +30,11 @@
         "label": "Midnight Blush",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-blush-color-theme.json"
+      },
+      {
+        "label": "Midnight Blush (No italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-blush-color-theme-no-italic.json"
       }
     ]
   }
